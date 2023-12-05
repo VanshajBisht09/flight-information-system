@@ -1,0 +1,7 @@
+CMB,Colombo,Srilanka
+CUC,Kolkata,India
+LHR,London,United Kingdom
+HND,Tokyo,Japan
+AKL,Auckland,New Zealand
+JFK,New York,United States
+CDG,Paris,France

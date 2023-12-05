@@ -1,0 +1,5 @@
+QR,Qatar Airways
+EK,Emirates Airline
+UL,Srilankan Airline
+JL,Japan Airlines
+US,US Airways

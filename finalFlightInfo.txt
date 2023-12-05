@@ -1,0 +1,18 @@
+#
+CMB,Colombo,Srilanka
+CUC,Kolkata,India
+LHR,London,United Kingdom
+HND,Tokyo,Japan
+AKL,Auckland,New Zealand
+JFK,New York,United States
+CDG,Paris,France
+#
+**
+QR,Qatar Airways
+*
+QR 0655,3 Dec 2016,CMB,CDG,20:55,06:30
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+QR 1675,5 Dec 2016,HND,LHR,10:35,22:10
